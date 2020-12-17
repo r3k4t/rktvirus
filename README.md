@@ -37,7 +37,11 @@ python3 rktvirus.py
 
 <h6>Solution</h6>
 
+Please,close your linux terminal.
+
 ![Screenshot_2020-12-17_20-02-18](https://user-images.githubusercontent.com/69615463/102501802-d7d77280-40a3-11eb-8b10-b2131beffe28.png)
+
+Open a terminal and type a command:sudo service NetworkManager restart
 
 ![Screenshot_2020-12-17_20-05-41](https://user-images.githubusercontent.com/69615463/102501992-13723c80-40a4-11eb-9939-59dc28246e33.png)
 
