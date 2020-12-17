@@ -12,7 +12,7 @@ Rktvirus  is a LINUX VIRUS.Its build on python program.It is a simple virus.WARN
 ### Setup ###
 
 
-pip install -r requirements.txt
+sudo pip3 install -r requirements.txt
 
 
 ### Terminal Command ###
