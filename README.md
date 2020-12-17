@@ -45,4 +45,8 @@ Open a terminal and type a command:sudo service NetworkManager restart
 
 ![Screenshot_2020-12-17_20-05-41](https://user-images.githubusercontent.com/69615463/102501992-13723c80-40a4-11eb-9939-59dc28246e33.png)
 
+Copy all folder and click on delete option.
+
+![Screenshot_2020-12-17_19-49-11](https://user-images.githubusercontent.com/69615463/102499558-58e13a80-40a1-11eb-969d-b16b8f85df56.png)
+
 
