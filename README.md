@@ -33,5 +33,6 @@ python3 rktvirus.py
 ![Screenshot_2020-12-17_15-07-30](https://user-images.githubusercontent.com/69615463/102497900-41a14d80-409f-11eb-9b1b-d0c8b00f4ede.png)
 
 
+### How to remove this virus ? ###
 
-
+<h6>Solution</h6>
