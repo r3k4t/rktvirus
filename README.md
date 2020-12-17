@@ -4,7 +4,7 @@
 <h6>Author : RKT </h6>
 
 
-Rktvirus  is a LINUX VIRUS.Its build on python program.It is a simple virus.Warning:It is an educational purpose.I am not responsible for your illegal activity.
+Rktvirus  is a LINUX VIRUS.Its build on python program.It is a simple virus.WARNING:It is an educational purpose.I am not responsible for your illegal activity.
 
 
 ### Setup ###
