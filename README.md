@@ -1,4 +1,6 @@
-
+ [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/rktvirus/blob/main/LICENSE)
+ [![python](https://img.shields.io/badge/python-3.9.0-brightgreen.svg)](https://www.python.org/downloads/release/python-390)
+ 
 <h2>RktViRUS</h2>
 
 <h6>Author : RKT </h6>
